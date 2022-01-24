@@ -1,0 +1,6 @@
+apikey
+AIzaSyCYMnnaHV-EHf6n6Bi_5qHYTEqz412T0zA
+
+
+rnfes
+>create a react native functional component
