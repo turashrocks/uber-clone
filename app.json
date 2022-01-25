@@ -20,7 +20,7 @@
       "supportsTablet": true,
       "bundleIdentifier": "com.notime",
       "config":{
-          "googleMapsApiKey": "AIzaSyCYMnnaHV-EHf6n6Bi_5qHYTEqz412T0zA"
+          "googleMapsApiKey": "check_notest.txt"
       }
     },
     "android": {
@@ -31,7 +31,7 @@
       "package":"com.notime",
       "config":{
         "googleMaps":{
-          "apiKey": "AIzaSyCYMnnaHV-EHf6n6Bi_5qHYTEqz412T0zA"
+          "apiKey": "check_notest.txt"
         },
         "permissions":["ACCESS_COARSE_LOCATION", "ACCESS_FINE_LOCATION", "FOREGROUND_SERVICE"]
       }
